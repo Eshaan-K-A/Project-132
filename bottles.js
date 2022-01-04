@@ -1,7 +1,7 @@
 var status1 = "";
 var img = "";
 function preload(){
-    img = loadImage("bottles.png")
+    img = loadImage("Bottles.png")
 }
 function setup(){
     canvas = createCanvas(700, 500);
